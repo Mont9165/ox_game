@@ -1,0 +1,30 @@
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.exe.config
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.exe
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.pdb
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csprojAssemblyReference.cache
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.Form1.resources
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.Properties.Resources.resources
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csproj.GenerateResource.cache
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csproj.CoreCompileInputs.cache
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.exe
+C:\Users\kosei\VisualStudio_source\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.pdb
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.exe.config
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.exe
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.pdb
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csprojAssemblyReference.cache
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.Form1.resources
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.Properties.Resources.resources
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csproj.GenerateResource.cache
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csproj.CoreCompileInputs.cache
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.exe
+C:\Users\kosei\source\repos\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.pdb
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.exe.config
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.exe
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\bin\Debug\まるばつゲーム.pdb
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csprojAssemblyReference.cache
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.Form1.resources
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.Properties.Resources.resources
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csproj.GenerateResource.cache
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.csproj.CoreCompileInputs.cache
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.exe
+C:\Users\non-terrestial\OneDrive - 独立行政法人 国立高等専門学校機構\ドキュメント\exp3_sisoku , ox, osero (1)\ox_game\まるばつゲーム\まるばつゲーム\obj\Debug\まるばつゲーム.pdb
